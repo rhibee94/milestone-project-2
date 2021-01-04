@@ -17,3 +17,31 @@ the animals that you have paired together you are now merging so that for exampl
 - a tabby cat becomes a ragdoll cat
 - a ragdoll cat becomes a Siamese cat
 - and so on until the cats become dogs and you carry on untill all 20 have been merged.
+## user stories
+as a user i would like to have a game that i can play that works on all devices, where i can match and merge the cats and dogs.
+- it will need to be interactive and easy for all age groups.
+
+## features
+
+### describe the header
+the header holds the title and level one of the game, which will have images of cats and dogs 
+- 20 cats 10 different types 2 of each 
+- 20 dogs 10 different types 2 of each
+
+### images
+the images will be the cats and dogs both pages will have the same animals, however page 2 will have them ordered differently as they are to me merged not matched.
+
+### body of match page
+this page will have the title and the 40 images plus a description on what to do
+
+### body of the merge page
+this page will have the title and the 40 images plus a description on what to do
+
+## Technology
+### Languages
+i have used html, css, javascript
+
+### Tools/Libraries
+
+
+### Testing ( containing test cases)
