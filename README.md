@@ -1,5 +1,6 @@
 # milestone-project-2
-# memory game 
+## Cats and Dogs, Memory and Merge
+### memory game 
 this is a memory game that turns into a merge game.
 you start off by pairing up the cats and dogs on level one then on level 2 you are merging together the same animals you paired up 
 in the first level.
@@ -14,5 +15,5 @@ to majong in that sense, there will be 10 different cats and 10 different dogs. 
 the animals that you have paired together you are now merging so that for example - 
 - a ginger cat becomes a tabby cat
 - a tabby cat becomes a ragdoll cat
-- a ragdoll cat becomes a siamese cat
+- a ragdoll cat becomes a Siamese cat
 - and so on until the cats become dogs and you carry on untill all 20 have been merged.
