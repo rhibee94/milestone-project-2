@@ -45,3 +45,17 @@ i have used html, css, javascript
 
 
 ### Testing ( containing test cases)
+### other
+
+
+### deployment
+i used github to originally create my page and did the code with gitpod
+
+## credits
+### Content
+
+
+### Media
+
+
+### acknowledgement
