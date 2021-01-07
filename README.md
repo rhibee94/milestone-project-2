@@ -38,9 +38,9 @@ all image link addresses
 - https://cdn.shopify.com/s/files/1/1788/4235/files/PPF-BlogUpdate-Thumbs_0041_42_Cat-Stages.jpg
 - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg21525625%2Fwhy-cats-are-best-pets%2F&psig=AOvVaw05Wp0JpOQbBrYfqKLDqXgm&ust=1610144899342000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjX17Xviu4CFQAAAAAdAAAAABAK
 - https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FOdd-eyed_cat&psig=AOvVaw05Wp0JpOQbBrYfqKLDqXgm&ust=1610144899342000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjX17Xviu4CFQAAAAAdAAAAABAD
-- https://i.guim.co.uk/img/media/fe1e34da640c5c56ed16f76ce6f994fa9343d09d/0_174_3408_2046/master/3408.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=0d3f33fb6aa6e0154b7713a00454c83d
+- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thesprucepets.com%2Fcute-teacup-dog-breeds-4587847&psig=AOvVaw3ipoQREIJltSGiJDTdlMWw&ust=1610145150593000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCHzK7wiu4CFQAAAAAdAAAAABAg
 - https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg
-- https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/dog_cool_summer_slideshow/1800x1200_dog_cool_summer_other.jpg
+- 
 ### body of match page
 this page will have the title and the 40 images plus a description on what to do
 
