@@ -18,8 +18,12 @@ the animals that you have paired together you are now merging so that for exampl
 - a ragdoll cat becomes a Siamese cat
 - and so on until the cats become dogs and you carry on untill all 20 have been merged.
 ## user stories
+as a user i'll visit the intro pageand see a start game button.
+as a user i will click the start game button and it will show a form requesting me to enter my name.
 as a user i would like to have a game that i can play that works on all devices, where i can match and merge the cats and dogs.
 - it will need to be interactive and easy for all age groups.
+
+
 
 ## features
 
@@ -30,7 +34,8 @@ the header holds the title and level one of the game, which will have images of 
 
 ### images
 the images will be the cats and dogs both pages will have the same animals, however page 2 will have them ordered differently as they are to me merged not matched.
-
+all image link addresses
+- https://cdn.shopify.com/s/files/1/1788/4235/files/PPF-BlogUpdate-Thumbs_0041_42_Cat-Stages.jpg
 ### body of match page
 this page will have the title and the 40 images plus a description on what to do
 
