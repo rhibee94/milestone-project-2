@@ -36,12 +36,9 @@ the header holds the title and level one of the game, which will have images of 
 the images will be the cats and dogs both pages will have the same animals, however page 2 will have them ordered differently as they are to me merged not matched.
 all image link addresses
 - https://cdn.shopify.com/s/files/1/1788/4235/files/PPF-BlogUpdate-Thumbs_0041_42_Cat-Stages.jpg
-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodhousekeeping.com%2Flife%2Fpets%2Fg21525625%2Fwhy-cats-are-best-pets%2F&psig=AOvVaw05Wp0JpOQbBrYfqKLDqXgm&ust=1610144899342000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjX17Xviu4CFQAAAAAdAAAAABAK
-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FOdd-eyed_cat&psig=AOvVaw05Wp0JpOQbBrYfqKLDqXgm&ust=1610144899342000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjX17Xviu4CFQAAAAAdAAAAABAD
-- https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thesprucepets.com%2Fcute-teacup-dog-breeds-4587847&psig=AOvVaw3ipoQREIJltSGiJDTdlMWw&ust=1610145150593000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCHzK7wiu4CFQAAAAAdAAAAABAg
 - https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg
-- 
-### body of match page
+- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa38usgh2D_1NqpPJWmMrO5CL1bgkwPKeXbA&usqp=CAU
+- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSYYrd98YcE38qEn6fYTWBaX3IlQSCp_30lg&usqp=CAU
 this page will have the title and the 40 images plus a description on what to do
 
 ### body of the merge page
