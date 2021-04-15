@@ -39,6 +39,11 @@ all image link addresses
 - https://www.cdc.gov/healthypets/images/pets/cute-dog-headshot.jpg
 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa38usgh2D_1NqpPJWmMrO5CL1bgkwPKeXbA&usqp=CAU
 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSYYrd98YcE38qEn6fYTWBaX3IlQSCp_30lg&usqp=CAU
+- https://www.swlondoner.co.uk/wp-content/uploads/2020/10/VINNIE.jpg
+- https://us.bravecto.com/images/plus-cats/plus-protection-cat.png
+- https://www.dogbreedslist.info/uploads/allimg/dog-pictures/Labrador-Retriever-1.jpg
+- https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2019-07/pic_dog_and_globe_denisfilm_123rf.png?itok=2wfCcgLa
+- https://images.cm.archant.co.uk/resource/responsive-image/7280572/article-body-image-landscape/xs/1/hsg-june-20-cats-gettyimages-1-5270928c.jpg
 this page will have the title and the 40 images plus a description on what to do
 
 ### body of the merge page
