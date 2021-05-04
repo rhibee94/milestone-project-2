@@ -7,9 +7,9 @@ in the first level.
 # level 1
 ## paring the cats and dogs
 this is a memory challenge that puts your mind to the test, you have to remmember where the matching animal is so it is simular 
-to majong in that sense, there will be 10 different cats and 10 different dogs. so 20 of each in total.
-- 20 cats
-- 20 dogs 
+to majong in that sense, there will be 5 different cats and 5 different dogs. so 20 of each in total.
+- 10 cats
+- 10 dogs 
 # level 2
 ## merging the cats and dogs
 the animals that you have paired together you are now merging so that for example - 
@@ -29,8 +29,8 @@ as a user i would like to have a game that i can play that works on all devices,
 
 ### describe the header
 the header holds the title and level one of the game, which will have images of cats and dogs 
-- 20 cats 10 different types 2 of each 
-- 20 dogs 10 different types 2 of each
+- 10 cats 5 different types 2 of each 
+- 10 dogs 5 different types 2 of each
 
 ### images
 the images will be the cats and dogs both pages will have the same animals, however page 2 will have them ordered differently as they are to me merged not matched.
